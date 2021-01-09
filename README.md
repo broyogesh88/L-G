@@ -1,6 +1,6 @@
-# flutter_google_sign_in_demo
+# L & G 
 
-A new Flutter application.
+A learning management system for sikkim state.
 
 ## Getting Started
 
