@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82138091405",
+    "project_id": "learnandgrow-82f0b",
+    "storage_bucket": "learnandgrow-82f0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82138091405:android:61c94b52e4e21c471f37c4",
+        "android_client_info": {
+          "package_name": "com.LearnAndGrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82138091405-omm6qaj4hpk5qfvm2ahp0rc3965d205s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARnuFqwADqfyUC1grGZPpHu4g3a0QKiw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82138091405-omm6qaj4hpk5qfvm2ahp0rc3965d205s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

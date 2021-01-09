@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">82138091405-omm6qaj4hpk5qfvm2ahp0rc3965d205s.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">82138091405</string>
+    <string name="google_api_key" translatable="false">AIzaSyARnuFqwADqfyUC1grGZPpHu4g3a0QKiw4</string>
+    <string name="google_app_id" translatable="false">1:82138091405:android:61c94b52e4e21c471f37c4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARnuFqwADqfyUC1grGZPpHu4g3a0QKiw4</string>
+    <string name="google_storage_bucket" translatable="false">learnandgrow-82f0b.appspot.com</string>
+    <string name="project_id" translatable="false">learnandgrow-82f0b</string>
+</resources>
